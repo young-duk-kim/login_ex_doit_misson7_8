@@ -1,0 +1,2 @@
+rootProject.name = "login_ex_doit_misson7"
+include ':app'
